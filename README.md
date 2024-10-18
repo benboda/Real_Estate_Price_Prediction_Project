@@ -1,2 +1,2 @@
-# Econometrics_Term_Paper
+# Econometrics_Term_Pape
 lkjh
