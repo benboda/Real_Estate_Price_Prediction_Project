@@ -3,4 +3,4 @@ This is the repository for my econometrics term paper, where I will be presentin
 
 [View research proposal here](https://docs.google.com/document/d/12pGga_O-WvPBKstBQVDjri_96II5XInZ_sue5lgJpsM/edit?tab=t.0)
 
-[View literature review here]()
+[View literature review here](https://docs.google.com/document/d/1buBdL1Jg8bj1iPYdw7X7_PTVxzqBnAE6BVyP4HCRSfY/edit)
