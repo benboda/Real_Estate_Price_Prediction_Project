@@ -1,0 +1,4 @@
+2024: R^2: .903, Adj. R^2: .896, F-Stat: 126.1, Both Variables Significant, P-Values: 0, BP Test: .157, DW Test: 2.221, VIFs: 1.091, Standardized Coeffs: OPS: .6309, WHIP: -.5514, OPS more statistically significant from 0 than WHIP
+    - find this model interesting because it is the most recent one
+    - OPS is more statistically significant compared to WHIP
+    - theory checks out with both variables signs as well as with the magnitude of their standardized coeffs because ops will lead to more opportunities to score which is how games are won rather than just holding the opponent to less opportunities which obviously helps but can't win by itself
